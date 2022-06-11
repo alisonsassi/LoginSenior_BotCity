@@ -1,15 +1,17 @@
-# LoginSenior_BotCity
+# Wellcome the project
 
 Hi, I'm Alison Sassi, automation enthusiast!
  
-This repository is for the purpose of logging into the senior system. The solution uses an automation framework.
+This repository is intended for entry into the senior system. The solution uses an automation framework.
 
-Pre-requisites: 
-Must have a monitor with higher resolution connected.
+Prerequisites: 
+You must have a higher resolution monitor connected.
+If you plan to use with just screen the laptop, you must have removed the comment and comment down code.
 
-Step by Step:
+uncomment
+Step by step:
 1 - Clone this repository to a folder on your computer of your choice.
 2 - Install Python 3.7+
 3- Run the command: py bot.py in the selected folder.
 
-Let the robot work for you!
+Let the bot work for you!

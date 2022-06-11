@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+LoginSenior/__init__.py
+LoginSenior/__main__.py
+LoginSenior/bot.py
+LoginSenior.egg-info/PKG-INFO
+LoginSenior.egg-info/SOURCES.txt
+LoginSenior.egg-info/dependency_links.txt
+LoginSenior.egg-info/requires.txt
+LoginSenior.egg-info/top_level.txt
+LoginSenior/resources/start.png
