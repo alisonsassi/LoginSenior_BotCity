@@ -15,8 +15,8 @@ python bot.py
 ```
 
 Step by step:
-Markup : * Clone this repository to a folder on your computer of your choice.
-         * Install Python 3.7+
-         * Run the command: py bot.py in the selected folder.
+* Clone this repository to a folder on your computer of your choice.
+* Install Python 3.7+
+* Run the command: py bot.py in the selected folder.
 
 Let the bot work for you!
